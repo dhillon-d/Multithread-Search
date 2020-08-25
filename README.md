@@ -1,0 +1,8 @@
+- Name: Dilraj (Raj) Dhillon
+- Time: 20 hours
+- Colloborate: no
+- External sources: Stack Overflow
+- Question:
+  - We needed a semaphore to make the threads wait until the data array was populated before reading it
+  - Mutex for making sure same index isn't overwritten
+  - I think the example.c and mutex.c code should be walked through
